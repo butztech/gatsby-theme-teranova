@@ -1,11 +1,17 @@
 {
-  "name": "gatsby-theme-teranova",
+  "name": "@butztech/gatsby-theme-teranova",
   "version": "2.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "nk13",
-  "repository": "https://github.com/NK-WebDev/gatsby-theme-teranova",
-  "keywords": "gatsby,gatsby-theme,gatsby-plugin,theme,single page theme",
+  "repository": "https://github.com/butztech/gatsby-theme-teranova",
+  "keywords": [
+    "gatsby",
+    "gatsby-theme",
+    "gatsby-plugin",
+    "theme",
+    "single page theme"
+  ],
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
